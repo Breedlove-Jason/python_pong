@@ -1,7 +1,7 @@
 # Pong Game
 
 This repository contains a simple implementation of the classic arcade game, Pong, using the Python Turtle graphics module. The game features a two-player mode, with each player controlling a paddle using keyboard inputs. The objective is to score points by getting the ball past the opponent's paddle.
-
+![python_pong_screenshot.png](python_pong_screenshot.png)
 ## Features
 - Two-player gameplay
 - Real-time score tracking with a scoreboard
